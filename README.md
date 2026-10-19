@@ -80,7 +80,6 @@ My journey combines computer vision, Generative AI, physics-informed neural netw
 I'm always happy to connect with people who enjoy building, learning, and exploring AI and engineering.
 
 - 📧 **Email:** [amirifatma111@gmail.com](mailto:amirifatma111@gmail.com)
-- 💻 **GitHub:** [Fatma-Amiri](https://github.com/Fatma-Amiri)
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/fatma-amiri-091427366/)
 
 ---
