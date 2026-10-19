@@ -1,43 +1,29 @@
-Hey there 👋 I'm Fatma Amiri
-Engineering Student · INSAT · Tunisia
 
-I'm an Industrial Computing and Automation engineering student passionate about building practical AI solutions, from computer-vision pipelines to LLM-powered applications.
+## 🛠️ Tech Stack
 
-🎯 Seeking a final-year engineering internship (PFE) starting January 2027.
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
+</p>
 
+### 🤖 AI, Machine Learning & LLMs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+</p>
 
-👩‍💻 About Me
-- 🎓 Studying Industrial Computing and Automation at INSAT.
-- 🤖 Hands-on experience with computer vision, RAG, and local LLM integration.
-- 🔬 Interested in Generative AI, multimodal AI, and AI system evaluation.
-- 🌱 Currently looking to deepen my skills in Agentic AI and autonomous workflows.
+### 🔧 Tools & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,fastapi,flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
 
-
-🛠️ Tech Stack
-Programming
-Python
-C / C++
-Java
-JavaScript
-SQL
-
-AI & Computer Vision
-PyTorch
-YOLO
-SigLIP
-FAISS
-EasyOCR
-
-LLMs & Applications
-LangChain
-RAG
-Llama 3.2
-Ollama
-Streamlit
-FastAPI
-
-Engineering & Simulation
-MATLAB
-LabVIEW
-PID Control
-Optimization
+### ⚙️ Engineering & Simulation
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black" />
+</p>
